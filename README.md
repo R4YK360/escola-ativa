@@ -40,4 +40,4 @@ Para executares o projeto localmente no teu computador, segue os passos abaixo:
 3. **Instalar as dependências:**
    Executa o seguinte comando no terminal:
    ```bash
-   npm install
+   npm run dev
