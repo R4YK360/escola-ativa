@@ -37,7 +37,7 @@ Para executares o projeto localmente no teu computador, segue os passos abaixo:
 2. **Clonar ou descarregar o projeto:**
    Extrai a pasta do projeto ou abre o terminal no diretório raiz da aplicação.
 
-3. **Instalar as dependências:**
+3. **Correr o programa:**
    Executa o seguinte comando no terminal:
    ```bash
-   npm install
+   npm run dev
